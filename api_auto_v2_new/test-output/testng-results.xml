@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2951" started-at="2021-01-08T11:56:58Z" finished-at="2021-01-08T11:57:00Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2951" started-at="2021-01-08T11:56:58Z" finished-at="2021-01-08T11:57:00Z">
+      <class name="com.lemon.api.auto.RegisterCase2_v5">
+        <test-method status="PASS" signature="test1(java.lang.String, java.lang.String)[pri:0, instance:com.lemon.api.auto.RegisterCase2_v5@223f3642]" name="test1" duration-ms="1443" started-at="2021-01-08T19:56:58Z" data-provider="datas" finished-at="2021-01-08T19:57:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[18111111111]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(java.lang.String, java.lang.String)[pri:0, instance:com.lemon.api.auto.RegisterCase2_v5@223f3642]" name="test1" duration-ms="162" started-at="2021-01-08T19:57:00Z" data-provider="datas" finished-at="2021-01-08T19:57:00Z">
+          <params>
+            <param index="0">
+              <value is-null="true"/>
+            </param>
+            <param index="1">
+              <value is-null="true"/>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(java.lang.String, java.lang.String)[pri:0, instance:com.lemon.api.auto.RegisterCase2_v5@223f3642]" name="test1" duration-ms="161" started-at="2021-01-08T19:57:00Z" data-provider="datas" finished-at="2021-01-08T19:57:00Z">
+          <params>
+            <param index="0">
+              <value is-null="true"/>
+            </param>
+            <param index="1">
+              <value is-null="true"/>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(java.lang.String, java.lang.String)[pri:0, instance:com.lemon.api.auto.RegisterCase2_v5@223f3642]" name="test1" duration-ms="191" started-at="2021-01-08T19:57:00Z" data-provider="datas" finished-at="2021-01-08T19:57:00Z">
+          <params>
+            <param index="0">
+              <value is-null="true"/>
+            </param>
+            <param index="1">
+              <value is-null="true"/>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(java.lang.String, java.lang.String)[pri:0, instance:com.lemon.api.auto.RegisterCase2_v5@223f3642]" name="test1" duration-ms="206" started-at="2021-01-08T19:57:00Z" data-provider="datas" finished-at="2021-01-08T19:57:00Z">
+          <params>
+            <param index="0">
+              <value is-null="true"/>
+            </param>
+            <param index="1">
+              <value is-null="true"/>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(java.lang.String, java.lang.String)[pri:0, instance:com.lemon.api.auto.RegisterCase2_v5@223f3642]" name="test1" duration-ms="185" started-at="2021-01-08T19:57:00Z" data-provider="datas" finished-at="2021-01-08T19:57:00Z">
+          <params>
+            <param index="0">
+              <value is-null="true"/>
+            </param>
+            <param index="1">
+              <value is-null="true"/>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- com.lemon.api.auto.RegisterCase2_v5 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

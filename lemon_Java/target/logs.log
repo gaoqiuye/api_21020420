@@ -1,0 +1,8 @@
+2020-09-30 14:41:04 DEBUG com.lemon.java.log4jdemo.Log4jTester.test(Log4jTester.java:15) - 这是我的debug级别的日志
+2020-09-30 14:41:04 INFO com.lemon.java.log4jdemo.Log4jTester.test(Log4jTester.java:16) - 这是我的info级别的日志
+2020-09-30 14:41:04 WARN com.lemon.java.log4jdemo.Log4jTester.test(Log4jTester.java:17) - 这是我的warn级别的日志
+2020-09-30 14:41:04 ERROR com.lemon.java.log4jdemo.Log4jTester.test(Log4jTester.java:18) - 这是我的error级别的日志
+2020-09-30 15:33:08 DEBUG com.lemon.java.log4jdemo.Log4jTester.test(Log4jTester.java:15) - 这是我的debug级别的日志
+2020-09-30 15:33:08 INFO com.lemon.java.log4jdemo.Log4jTester.test(Log4jTester.java:16) - 这是我的info级别的日志
+2020-09-30 15:33:08 WARN com.lemon.java.log4jdemo.Log4jTester.test(Log4jTester.java:17) - 这是我的warn级别的日志
+2020-09-30 15:33:08 ERROR com.lemon.java.log4jdemo.Log4jTester.test(Log4jTester.java:19) - 这是我的error级别的日志

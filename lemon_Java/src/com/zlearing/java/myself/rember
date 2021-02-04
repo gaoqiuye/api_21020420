@@ -1,0 +1,26 @@
+JVM: Java Virtual Machine(java虚拟机)
+JDK：Java Development Kit
+JRE: Java Runtime Environment
+SDK: Software Development Kit 软件开发工具包
+
+Log4j:开源的日志框架
+log4j.properties  放在【src】下  【log4j.properties放在classpath--编译路径下】
+log4j.jar放在 lib下（new -->source folder下新建文件夹lib）,右键build path--add to build path
+
+配置说明：
+根logger设置：
+根logger主要定义log4j支持的日志级别及输出位置
+语法：log4j.rootLogger=INFO,console,file
+INFO表示日志记录的优先级，低到高：DEBUG<INFO<WARN<ERROR,大于等于此级别的日志会被记录下来
+
+
+#Tgrget:日志输出目的地
+#Threshold:设置局部日志级别
+#ConversionPattern:指定日志格式
+#layout:根据日志格式获取日志字符串
+#☆：当Appender里指定了局部日志级别，则此Appender以自己的日志级别为准
+
+git:项目管理工具
+Maven:项目构建工具，管理工具
+特点：
+异常Exception
